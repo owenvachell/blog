@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "13d967fd0fdc5709",
+    "type": "split",
+    "children": [
+      {
+        "id": "083616eaa962aa71",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-01-25-this-is-a-test-post.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e60cedb53301890e",
+    "type": "split",
+    "children": [
+      {
+        "id": "97fdef6edb169b13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc34144c5114e681",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ea3ce1f37c72ca5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea70ff1dbe001c0e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360
+  },
+  "right": {
+    "id": "0df5878dbae15fae",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb624fdd19497a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aac6608f738029c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2021-01-25-this-is-a-test-post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00a246a9c619fc8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d925992a7b0bdf87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2021-01-25-this-is-a-test-post.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_posts/2021-01-25.md",
+    "_posts/templates/POST.md",
+    "_posts/2021-01-28.md",
+    "_posts/2021-01-27.md",
+    "_posts/2021-01-26.md",
+    "_posts/templates/{{date}}-post.md",
+    "_posts/Untitled.md",
+    "_posts/new-post-test.md",
+    "_posts/templates/Untitled.md",
+    "_posts/2021-01-23-welcome-to-jekyll copy.md"
+  ]
+}
