@@ -21,7 +21,7 @@
 title: Owen Vachell
 email: owen@owenvachell.com
 description: "Geography undergrad blogging about the world, research & academia, productivity hacks, tech, Python programming...and general lifestyle stuff."
-baseurl: "/blog"
+baseurl: ""
 url: "https://owenvachell.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: owenvachell
 github_username:  owenvachell
